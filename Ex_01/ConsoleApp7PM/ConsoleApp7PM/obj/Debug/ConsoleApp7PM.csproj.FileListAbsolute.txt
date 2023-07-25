@@ -1,0 +1,8 @@
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\bin\Debug\ConsoleApp7PM.exe.config
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\bin\Debug\ConsoleApp7PM.exe
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\bin\Debug\ConsoleApp7PM.pdb
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\obj\Debug\ConsoleApp7PM.csproj.AssemblyReference.cache
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\obj\Debug\ConsoleApp7PM.csproj.SuggestedBindingRedirects.cache
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\obj\Debug\ConsoleApp7PM.csproj.CoreCompileInputs.cache
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\obj\Debug\ConsoleApp7PM.exe
+D:\7PMNet\Ex_01\ConsoleApp7PM\ConsoleApp7PM\obj\Debug\ConsoleApp7PM.pdb

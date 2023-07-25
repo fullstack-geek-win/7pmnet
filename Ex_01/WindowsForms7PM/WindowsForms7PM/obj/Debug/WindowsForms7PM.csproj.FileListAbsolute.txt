@@ -1,0 +1,11 @@
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\bin\Debug\WindowsForms7PM.exe.config
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\bin\Debug\WindowsForms7PM.exe
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\bin\Debug\WindowsForms7PM.pdb
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.csproj.AssemblyReference.cache
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.csproj.SuggestedBindingRedirects.cache
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.Form1.resources
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.Properties.Resources.resources
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.csproj.GenerateResource.cache
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.csproj.CoreCompileInputs.cache
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.exe
+D:\7PMNet\Ex_01\WindowsForms7PM\WindowsForms7PM\obj\Debug\WindowsForms7PM.pdb

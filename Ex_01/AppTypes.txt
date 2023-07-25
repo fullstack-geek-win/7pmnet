@@ -1,0 +1,38 @@
+Types
+Console -> 
+==========
+	No interface
+	Background process
+	Batch/Bulk process
+	
+	Execution
+		static void Main() {}
+	
+Desktop ->
+==========
+	OS Apps
+	Desktop Tool
+	Desktop App
+	
+	Execution
+		static void Main() {}
+	
+Web ->
+======
+	Business
+	Learning
+	Restrarent
+	
+	Execution
+	HTTP -> Execution Approach
+	Frontend
+		HTML
+		CSS
+		Javascript
+	Backend
+		.NET C#
+		SQL entity framework
+		Database
+	
+
+		
